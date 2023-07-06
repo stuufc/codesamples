@@ -26,3 +26,5 @@
        END PROGRAM HELLO-WORLD2.
 
 000000* Quelle: https://github.com/victordomingos/Learning_COBOL/blob/master/02_variable.cbl -> angepasst
+
+000000* Beschreibung: Dieses Programm nimmt einen Namen entgegen und gibt in der Main-Procedure den String Hello World! sowie den vorab definierten Namen aus.

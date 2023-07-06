@@ -41,3 +41,6 @@
            GOBACK.
 
 000000*Quelle: https://github.com/openmainframeproject/cobol-programming-course/blob/master/COBOL%20Programming%20Course%20%232%20-%20Learning%20COBOL/Labs/cbl/ADDAMT.cobol
+
+000000*Beschreibung: Dieser COBOL-Code liest Kundeninformationen und Einkaufsbeträge ein, summiert die Beträge und gibt die Kundennummer und die Gesamtsumme aus. 
+000000*Der Benutzer wird wiederholt nach weiteren Daten gefragt, bis er angibt, dass keine weiteren Daten eingegeben werden sollen.

@@ -56,3 +56,10 @@
 
 
 000000*Quelle: https://github.com/shamrice/COBOL-Examples/blob/main/trim/trim.cbl -> angepasst
+
+000000* Beschreibung: Dieser Code demonstriert die Verwendung der TRIM-Funktion in COBOL. Er enthält Beispiele, wie man einen Zeichenstring mit führenden und abschließenden Leerzeichen trimmt 
+000000* sowie die Verwendung der TRIM-Funktion mit Zeichenliteralen. Die Ergebnisse werden mit Hilfe von DISPLAY-Anweisungen angezeigt.
+
+
+
+

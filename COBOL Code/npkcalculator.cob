@@ -120,3 +120,6 @@
 
 
 000000* Quelle: https://github.com/victordomingos/Learning_COBOL/blob/master/09_simple_calc_menu.COB -> angepasst
+
+000000* Beschreibung: Dieses Programm implementiert einen Taschenrechner in COBOL, der die Eingabe von zwei Zahlen ermöglicht und dann eine der vier Grundrechenarten (+, -, *, /) auf diese Zahlen anwendet. Es überprüft auch, ob eine der eingegebenen Zahlen oder das 
+000000* Ergebnis den magischen Wert 666 hat und gibt entsprechende Meldungen aus. Der Benutzer kann wählen, ob er weitere Berechnungen durchführen möchte.

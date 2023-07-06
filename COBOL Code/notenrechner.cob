@@ -172,3 +172,6 @@ END PROGRAM NOTEN.
 
 
 000000* Quelle: https://github.com/victordomingos/Learning_COBOL/blob/master/13_notas.cob -> angepasst
+
+000000* Beschreibung: Dieses Programm erfasst den Namen des Benutzers, seine Noten für vier Fächer, die Anzahl der Fehlstunden und optional eine Prüfungsnote. 
+000000* Es berechnet den Durchschnitt der Noten, vergleicht ihn mit bestimmten Kriterien und gibt entsprechende Berichte aus, ob der Benutzer bestanden oder nicht bestanden hat.

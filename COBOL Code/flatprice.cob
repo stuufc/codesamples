@@ -59,3 +59,5 @@ BEGIN.
 
 
 000000* Quelle: https://github.com/romankh3/cobol-code-example/blob/master/src/VariableExamples.cob -> angepasst
+
+000000* Beschreibung: Dieser Code erfasst verschiedene Variablen wie Name, Adresse, Quadratmeterzahl einer Wohnung, Preis pro Quadratmeter, Steuersatz und einen negativen Wert. Dann werden diese Variablen formatiert ausgegeben.

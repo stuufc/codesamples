@@ -177,3 +177,6 @@
 
 
 000000* Quelle: https://github.com/victordomingos/Learning_COBOL/blob/master/12_calculator.cob -> angepasst
+
+000000* Beschreibung: Dieses Programm implementiert einen einfachen Taschenrechner in COBOL. Es ermöglicht die Eingabe von zwei Zahlen und führt die Grundrechenarten (+, -, *, /) basierend auf dem ausgewählten Operator durch. Das Programm enthält auch Optionen zum Löschen des 
+000000* Bildschirms und zum Beenden des Programms. Der Taschenrechner wird in einer Endlosschleife ausgeführt, bis der Benutzer entscheidet, das Programm zu beenden.
