@@ -1,4 +1,4 @@
-        identification division.
+       identification division.
        program-id. trim-function-test.
 
        data division.

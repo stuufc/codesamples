@@ -3,6 +3,7 @@
       * Date: 22/5/2017                                                *
       * Program generates numbers to array which then sorts array      *
       ******************************************************************
+       IDENTIFICATION DIVISION.
        PROGRAM-ID. INSERT-SORT.
        DATA DIVISION.
        FILE SECTION.
