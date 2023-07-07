@@ -3,11 +3,8 @@
       * SPDX-License-Identifier: CC-BY-4.0
       *----------------------- 
        IDENTIFICATION DIVISION.
-       PROGRAM-ID.
-           ADDAMT.
-      *******************************************************
-      *    This program accepts input and displays output    *
-      *******************************************************
+       PROGRAM-ID. ADDAMT.
+
        DATA DIVISION.
        WORKING-STORAGE SECTION.
        01  KEYED-INPUT.

@@ -20,16 +20,12 @@
             GOBACK.
 
            GET-SEED SECTION.
-      **********************************************************************
-      *    More informations:
-      *    https://sourceforge.net/p/open-cobol/mailman/message/30917734/
-      **********************************************************************
+
            MOVE FUNCTION RANDOM(FUNCTION SECONDS-PAST-MIDNIGHT) TO SEED.
 
            GENERATE-NUMBER SECTION.
 
             PERFORM 10 TIMES
-      * Generate numbers from interval
               COMPUTE W-RESULT = (FUNCTION RANDOM * 100) + 1
               DISPLAY "Random number: " W-RESULT
             END-PERFORM.
